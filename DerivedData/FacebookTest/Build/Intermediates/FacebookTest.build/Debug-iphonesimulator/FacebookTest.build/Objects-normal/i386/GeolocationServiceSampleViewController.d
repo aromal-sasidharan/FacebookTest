@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.m \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FacebookSDK.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBSession.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBRequest.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBRequestConnection.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBGraphObject.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBError.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBSettings.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBLoginView.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBGraphUser.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBGraphPlace.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBGraphLocation.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBProfilePictureView.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBUserSettingsViewController.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBViewController.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBPlacePickerViewController.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBCacheDescriptor.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBFriendPickerViewController.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBOpenGraphAction.h \
+  /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBNativeDialogs.h

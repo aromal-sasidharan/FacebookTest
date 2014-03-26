@@ -1,0 +1,870 @@
+TFacebookTest
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-fwoqqbrlkdirmhcwwtdhigzsosxw/FacebookTest-Prefix.pch.pch FacebookTest/FacebookTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleViewController.o /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/main.o /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleAppDelegate.o /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/FacebookTest normal i386
+cCopyStringsFile /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/en.lproj/InfoPlist.strings FacebookTest/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/Images.xcassets
+cProcessInfoPlistFile /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/Info.plist /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/FacebookTest-Info.plist
+cGenerateDSYMFile /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app.dSYM /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/FacebookTest
+cTouch /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005284B8C200000000000003B5
+t1384429762
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005284B8CA00000000000001A0
+t1384429770
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+c000000005284B8CB0000000000090960
+t1384429771
+s592224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AdSupport.framework/AdSupport
+c000000005284B8CB0000000000008CC0
+t1384429771
+s36032
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005284B8CC00000000005838D0
+t1384429772
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005284B8CD00000000005B82A0
+t1384429773
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005284B8CC0000000000445870
+t1384429772
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005284B8CC0000000000355050
+t1384429772
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000005284B8CC00000000000EC820
+t1384429772
+s968736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005284B8CD00000000002F6810
+t1384429773
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005284B8CD000000000004B000
+t1384429773
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005284B8CE000000000088C680
+t1384429774
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005284B8CF0000000000037620
+t1384429775
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005284B8D000000000004848F0
+t1384429776
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005284B8D000000000001290B0
+t1384429776
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Social.framework/Social
+c000000005284B8D00000000000206A70
+t1384429776
+s2124400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005284B8D30000000001DB9910
+t1384429779
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005284B8E000000000002B9F20
+t1384429792
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c000000005284B8E70000000000002338
+t1384429799
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c000000005284B8E9000000000008D300
+t1384429801
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c000000005284B8E8000000000038ACB0
+t1384429800
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libsqlite3.0.dylib
+c000000005284B8E900000000001D3590
+t1384429801
+s1914256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c000000005270998A00000000000141F0
+t1383111050
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c000000005284B8E90000000000013500
+t1384429801
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c000000005284B8E90000000000033BA0
+t1384429801
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c000000005284B8E9000000000001CFB0
+t1384429801
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c000000005284B8E9000000000001B2B0
+t1384429801
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c000000005284B8E900000000000632B0
+t1384429801
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c000000005284B8E90000000000008880
+t1384429801
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005284B8E90000000000015080
+t1384429801
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005284B8E900000000000230E0
+t1384429801
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c000000005284B8E9000000000000E380
+t1384429801
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c000000005284B8E90000000000087200
+t1384429801
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c000000005284B8E900000000000171A0
+t1384429801
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c000000005284B8E90000000000039C10
+t1384429801
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c000000005284B8E9000000000000B0B0
+t1384429801
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c000000005284B8E90000000000167FE0
+t1384429801
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005284B8E900000000000106A0
+t1384429801
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005284B8E9000000000001CE40
+t1384429801
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005284B8E90000000000071040
+t1384429801
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005284B8E90000000000067A10
+t1384429801
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c000000005284B8E9000000000001BAD0
+t1384429801
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c000000005284B8E90000000000088BA0
+t1384429801
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c000000005284B9200000000000000AC9
+t1384429856
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c000000005284B9200000000000005004
+t1384429856
+s20484
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/FacebookTest.LinkFileList
+c0000000053317D3000000000000002D5
+t1395752240
+s725
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleAppDelegate.o
+t1395831274
+s66392
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleViewController.o
+t1395831274
+s65856
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/main.o
+t1395831273
+s3832
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/assetcatalog_dependencies.txt
+t1395826150
+s616
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/assetcatalog_generated_info.plist
+t1395826150
+s525
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-fwoqqbrlkdirmhcwwtdhigzsosxw/FacebookTest-Prefix.pch.pch
+t1395831273
+s117028
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-gxykpqjnvtyoqpdxdplfjbfyciry/FacebookTest-Prefix.pch.pch
+t1395752243
+s110452
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app
+t1395831276
+s306
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app.dSYM
+t1395831122
+s102
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/Base.lproj/Main.storyboardc
+t1395826155
+s170
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/FacebookTest
+t1395831276
+s339236
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/Info.plist
+t1395826155
+s1166
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/PkgInfo
+t1395826155
+s8
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/en.lproj/InfoPlist.strings
+t1395826128
+s42
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookSDK.framework/FacebookSDK
+c0000000050D0573F000000000084CEBC
+t1355831103
+s8703676
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/Base.lproj/Main.storyboard
+c0000000053317D2F0000000000000B5E
+t1395752239
+s2910
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/FacebookTest-Info.plist
+c0000000053317AA000000000000005C6
+t1395751584
+s1478
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/FacebookTest-Prefix.pch
+c00000000533177600000000000000158
+t1395750752
+s344
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleAppDelegate.h
+c0000000053317760000000000000014C
+t1395750752
+s332
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleAppDelegate.m
+c00000000533177600000000000000826
+t1395750752
+s2086
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.h
+c0000000053329FA90000000000000190
+t1395826601
+s400
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.m
+c000000005332B14F0000000000000D63
+t1395831119
+s3427
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/Images.xcassets
+c00000000533177600000000000000088
+t1395750752
+s136
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/en.lproj/InfoPlist.strings
+c0000000053317760000000000000002D
+t1395750752
+s45
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/main.m
+c00000000533177600000000000000188
+t1395750752
+s392
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/FacebookSDK
+c0000000050D0573F000000000084CEBC
+t1355831103
+s8703676
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+c0000000050D0573F0000000000000555
+t1355831103
+s1365
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBError.h
+c0000000050D0573F00000000000011E7
+t1355831103
+s4583
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+c0000000050D0573F00000000000023C1
+t1355831103
+s9153
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBGraphLocation.h
+c0000000050D0573F0000000000000758
+t1355831103
+s1880
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBGraphObject.h
+c0000000050D0573F0000000000002462
+t1355831103
+s9314
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBGraphPlace.h
+c0000000050D0573F0000000000000606
+t1355831103
+s1542
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBGraphUser.h
+c0000000050D0573F0000000000000860
+t1355831103
+s2144
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBLoginView.h
+c0000000050D0573F00000000000012B3
+t1355831103
+s4787
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBNativeDialogs.h
+c0000000050D0573F0000000000001D7E
+t1355831103
+s7550
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+c0000000050D0573F0000000000000C3B
+t1355831103
+s3131
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+c0000000050D0573F000000000000202A
+t1355831103
+s8234
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBProfilePictureView.h
+c0000000050D0573F0000000000000994
+t1355831103
+s2452
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBRequest.h
+c0000000050D0573F0000000000004322
+t1355831103
+s17186
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBRequestConnection.h
+c0000000050D0573F0000000000003847
+t1355831103
+s14407
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBSession.h
+c0000000050D0573F0000000000007377
+t1355831103
+s29559
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBSettings.h
+c0000000050D0573F0000000000000AFE
+t1355831103
+s2814
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+c0000000050D0573F0000000000000F88
+t1355831103
+s3976
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBViewController.h
+c0000000050D0573F000000000000104A
+t1355831103
+s4170
+
+N/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FacebookSDK.h
+c0000000050D0573F0000000000001528
+t1355831103
+s5416
+
+N/usr/lib/libSystem.B.dylib
+c0000000052709964000000000000E6D0
+t1383111012
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005270998A0000000000012A00
+t1383111050
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005270994D000000000002E320
+t1383110989
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000527099640000000000021860
+t1383111012
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052709988000000000001B620
+t1383111048
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005270998800000000000BD920
+t1383111048
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005270998A00000000000141F0
+t1383111050
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005270998A000000000000A120
+t1383111050
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c000000005270998A000000000001D550
+t1383111050
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000527099870000000000014EE0
+t1383111047
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005270998E0000000000010380
+t1383111054
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005270998E000000000000C4C0
+t1383111054
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005270998A00000000000357A0
+t1383111050
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005270998A000000000000C070
+t1383111050
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000527099640000000000168C00
+t1383111012
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000527099880000000000010630
+t1383111048
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005270998B000000000001DF10
+t1383111051
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000527099640000000000075B00
+t1383111012
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000052709964000000000007CC70
+t1383111012
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005270996400000000000766C0
+t1383111012
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c000000005270998B0000000000044DC0
+t1383111051
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000527099640000000000021FA0
+t1383111012
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c000000005270998B000000000002D900
+t1383111051
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005270998B000000000001E570
+t1383111051
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000523CDB16000000000000CC70
+t1379719958
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005270997A000000000000C3F0
+t1383111034
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005270998B00000000000199F0
+t1383111051
+s104944
+
+CBuild AST from /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleAppDelegate.m
+r0
+
+CBuild AST from /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.m
+r0
+
+CBuild AST from /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7e380468e9e2b841^70402768e9e2b841^---0#1#1#--18"Check dependencies36"325902B5-83BC-4D37-A665-A72C43E3351F-
+
+CCompileAssetCatalog /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/Images.xcassets
+s417518928.565985
+e417518950.172565
+r1
+xCompileAssetCatalog
+x/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app
+x/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/LaunchImage-700-568h@2x.png
+o/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/Assets.car
+o/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"CompileAssetCatalog DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app FacebookTest/Images.xcassets127"CompileAssetCatalog DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app FacebookTest/Images.xcassetsbef69050d5e2b841^b1302c66d5e2b841^-644"/* com.apple.actool.compilation-results *//Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/LaunchImage-700-568h@2x.png/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/Assets.car/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@124"file:///Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/Images.xcassets/0000000000000000^1523"CompileAssetCatalog DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app FacebookTest/Images.xcassets    cd /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/Images.xcassets36"9F9C03B0-D671-49F9-9FEF-CA6003741A1D-
+bDCDEE5FE-0BB9-44FF-81F0-176D6D62A9EE
+
+CCompileC DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleAppDelegate.o /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417524073.245059
+e417524074.523258
+r1
+xCompileC
+xDerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleAppDelegate.o
+x/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleAppDelegate.m
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Compile /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleAppDelegate.m290"CompileC DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleAppDelegate.o FacebookTest/GeolocationServiceSampleAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8fe43e69e9e2b841^bef5856ae9e2b841^---0#0#1#-19%DVTDocumentLocation2@145"file:///Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleAppDelegate.m0000000000000000^5196"CompileC DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleAppDelegate.o FacebookTest/GeolocationServiceSampleAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-generated-files.hmap -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-own-target-headers.hmap -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-all-target-headers.hmap -iquote /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-project-headers.hmap -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/DerivedSources/i386 -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/DerivedSources -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1 -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest -include /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-fwoqqbrlkdirmhcwwtdhigzsosxw/FacebookTest-Prefix.pch -MMD -MT dependencies -MF /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleAppDelegate.d --serialize-diagnostics /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleAppDelegate.dia -c /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleAppDelegate.m -o /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleAppDelegate.o36"3B7BBE68-47D8-4908-9FA0-FE7E6C0FB802-
+b40B763B2-E1E3-4BF2-9452-EE6CD730040F
+
+CCompileC DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleViewController.o /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417524073.244218
+e417524074.537516
+r1
+xCompileC
+xDerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleViewController.o
+x/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.m
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBSession.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBError.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBNativeDialogs.h
+o/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.m:43:16: warning: 'openActiveSessionWithPermissions:allowLoginUI:completionHandler:' is deprecated [-Wdeprecated-declarations]
+o    [FBSession openActiveSessionWithPermissions:permissions  allowLoginUI:YES
+o               ^
+oIn file included from /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.m:9:
+oIn file included from /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.h:10:
+oIn file included from /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FacebookSDK.h:18:
+o/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBSession.h:499:1: note: method 'openActiveSessionWithPermissions:allowLoginUI:completionHandler:' declared here
+o+ (BOOL)openActiveSessionWithPermissions:(NSArray*)permissions
+o^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Compile /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.m296"CompileC DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleViewController.o FacebookTest/GeolocationServiceSampleViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileracab3e69e9e2b841^aa99896ae9e2b841^-1234"/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.m:43:16: warning: 'openActiveSessionWithPermissions:allowLoginUI:completionHandler:' is deprecated [-Wdeprecated-declarations]    [FBSession openActiveSessionWithPermissions:permissions  allowLoginUI:YES               ^In file included from /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.m:9:In file included from /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.h:10:In file included from /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FacebookSDK.h:18:/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBSession.h:499:1: note: method 'openActiveSessionWithPermissions:allowLoginUI:completionHandler:' declared here+ (BOOL)openActiveSessionWithPermissions:(NSArray*)permissions^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@80"'openActiveSessionWithPermissions:allowLoginUI:completionHandler:' is deprecated-417524074#18446744073709551615#0#1(2@87"Method 'openActiveSessionWithPermissions:allowLoginUI:completionHandler:' declared here-417524074#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@167"file:///Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/Headers/FBSession.h0000000000000000^498#0#498#0#23290#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@148"file:///Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.m0000000000000000^42#15#42#15#1185#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@148"file:///Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.m0000000000000000^5214"CompileC DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleViewController.o FacebookTest/GeolocationServiceSampleViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-generated-files.hmap -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-own-target-headers.hmap -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-all-target-headers.hmap -iquote /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-project-headers.hmap -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/DerivedSources/i386 -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/DerivedSources -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1 -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest -include /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-fwoqqbrlkdirmhcwwtdhigzsosxw/FacebookTest-Prefix.pch -MMD -MT dependencies -MF /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleViewController.d --serialize-diagnostics /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleViewController.dia -c /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleViewController.m -o /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleViewController.o36"91A0F72C-A01D-49CB-99FA-1103CDCFA160-
+b40B763B2-E1E3-4BF2-9452-EE6CD730040F
+
+CCompileC DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/main.o /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417524073.244675
+e417524073.940372
+r1
+xCompileC
+xDerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/main.o
+x/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/main.m
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/GeolocationServiceSampleAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/main.m228"CompileC DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/main.o FacebookTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler40c03e69e9e2b841^66bdf069e9e2b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/main.m0000000000000000^5010"CompileC DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/main.o FacebookTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-generated-files.hmap -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-own-target-headers.hmap -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-all-target-headers.hmap -iquote /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-project-headers.hmap -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/DerivedSources/i386 -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/DerivedSources -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1 -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest -include /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-fwoqqbrlkdirmhcwwtdhigzsosxw/FacebookTest-Prefix.pch -MMD -MT dependencies -MF /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/main.dia -c /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/main.m -o /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/main.o36"BE4EC2D6-A232-4983-A1C9-218F7FB2C06E-
+b40B763B2-E1E3-4BF2-9452-EE6CD730040F
+
+CCompileStoryboard /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/Base.lproj/Main.storyboard
+s417518928.565312
+e417518955.030699
+r1
+xCompileStoryboard
+x/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"CompileStoryboard FacebookTest/Base.lproj/Main.storyboard57"CompileStoryboard FacebookTest/Base.lproj/Main.storyboardcdcc9050d5e2b841^cfdc076bd5e2b841^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/Base.lproj/Main.storyboard0000000000000000^1026"CompileStoryboard FacebookTest/Base.lproj/Main.storyboard    cd /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/Base.lproj/Main.storyboardc /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/Base.lproj/Main.storyboard36"BA4057FA-4311-47E2-BC7A-9F6123D03DFB-
+bDCDEE5FE-0BB9-44FF-81F0-176D6D62A9EE
+
+CCopyStringsFile /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/en.lproj/InfoPlist.strings FacebookTest/en.lproj/InfoPlist.strings
+s417518928.564993
+e417518928.717225
+r1
+xCopyStringsFile
+x/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/en.lproj/InfoPlist.strings
+xFacebookTest/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy FacebookTest/en.lproj/InfoPlist.strings161"CopyStringsFile DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/en.lproj/InfoPlist.strings FacebookTest/en.lproj/InfoPlist.stringsbf47a150d5e2b841^2c9db750d5e2b841^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/en.lproj/InfoPlist.strings0000000000000000^761"CopyStringsFile DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/en.lproj/InfoPlist.strings FacebookTest/en.lproj/InfoPlist.strings    cd /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/en.lproj -- FacebookTest/en.lproj/InfoPlist.strings36"55E1DF87-EA3D-4FC5-949A-164BDB0EF7C9-
+bDCDEE5FE-0BB9-44FF-81F0-176D6D62A9EE
+
+CGenerateDSYMFile /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app.dSYM /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/FacebookTest
+s417524076.263387
+e417524076.572892
+r1
+xGenerateDSYMFile
+x/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app.dSYM
+x/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/FacebookTest
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection180"Generate /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app.dSYM192"GenerateDSYMFile DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app.dSYM DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/FacebookTest287f436ce9e2b841^f8a9926ce9e2b841^---0#0#1#-19%DVTDocumentLocation2@179"file:///Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app.dSYM/0000000000000000^938"GenerateDSYMFile DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app.dSYM DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/FacebookTest    cd /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/FacebookTest -o /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app.dSYM36"78ED60AD-35C0-4387-8E5D-0E2053D0AD57-
+b40B763B2-E1E3-4BF2-9452-EE6CD730040F
+
+CLd /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/FacebookTest normal i386
+s417524074.540647
+e417524076.261144
+r1
+xLd
+x/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/FacebookTest
+xnormal
+xi386
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/FacebookTest.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleViewController.o
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/main.o
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/GeolocationServiceSampleAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libsqlite3.0.dylib
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1/FacebookSDK.framework/FacebookSDK
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AdSupport.framework/AdSupport
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Social.framework/Social
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection184"Link /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/FacebookTest106"Ld DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/FacebookTest normal i3860b7b8a6ae9e2b841^e354436ce9e2b841^---0#0#1#--2188"Ld DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/FacebookTest normal i386    cd /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1 -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest -filelist /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/FacebookTest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -lsqlite3.0 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework FacebookSDK -framework Accounts -framework AdSupport -framework Social -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/Objects-normal/i386/FacebookTest_dependency_info.dat -o /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/FacebookTest36"43B4E79A-2E30-4306-8468-E714AC31B386-
+b40B763B2-E1E3-4BF2-9452-EE6CD730040F
+
+CProcessInfoPlistFile /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/Info.plist /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/FacebookTest-Info.plist
+s417518955.031462
+e417518955.084785
+r1
+xProcessInfoPlistFile
+x/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/Info.plist
+x/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/FacebookTest-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Process /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/FacebookTest-Info.plist147"ProcessInfoPlistFile DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/Info.plist FacebookTest/FacebookTest-Info.plistf624086bd5e2b841^0a12176bd5e2b841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/FacebookTest-Info.plist0000000000000000^1272"ProcessInfoPlistFile DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/Info.plist FacebookTest/FacebookTest-Info.plist    cd /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/FacebookTest-Info.plist -genpkginfo /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/assetcatalog_generated_info.plist -o /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app/Info.plist36"6F62F890-2044-4628-BC8A-E8DD0431EC09-
+bDCDEE5FE-0BB9-44FF-81F0-176D6D62A9EE
+
+CProcessPCH /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-daglxdcqvkbmevesxxttjtjbyamu/FacebookTest-Prefix.pch.pch FacebookTest/FacebookTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-fwoqqbrlkdirmhcwwtdhigzsosxw/FacebookTest-Prefix.pch.pch FacebookTest/FacebookTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417524072.154566
+e417524073.242967
+r1
+xProcessPCH
+x/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-fwoqqbrlkdirmhcwwtdhigzsosxw/FacebookTest-Prefix.pch.pch
+xFacebookTest/FacebookTest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/FacebookTest-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile FacebookTest/FacebookTest-Prefix.pch256"ProcessPCH DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-fwoqqbrlkdirmhcwwtdhigzsosxw/FacebookTest-Prefix.pch.pch FacebookTest/FacebookTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbfb52768e9e2b841^37373e69e9e2b841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/FacebookTest-Prefix.pch0000000000000000^4851"ProcessPCH DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-fwoqqbrlkdirmhcwwtdhigzsosxw/FacebookTest-Prefix.pch.pch FacebookTest/FacebookTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-generated-files.hmap -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-own-target-headers.hmap -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-all-target-headers.hmap -iquote /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-project-headers.hmap -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/DerivedSources/i386 -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/DerivedSources -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1 -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest --serialize-diagnostics /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-fwoqqbrlkdirmhcwwtdhigzsosxw/FacebookTest-Prefix.pch.dia -MMD -MT dependencies -MF /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-fwoqqbrlkdirmhcwwtdhigzsosxw/FacebookTest-Prefix.pch.d -c /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/FacebookTest-Prefix.pch -o /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-fwoqqbrlkdirmhcwwtdhigzsosxw/FacebookTest-Prefix.pch.pch36"2001F469-6F96-4CD0-800F-38C8475BD6EA-
+b40B763B2-E1E3-4BF2-9452-EE6CD730040F
+
+CProcessPCH /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-gxykpqjnvtyoqpdxdplfjbfyciry/FacebookTest-Prefix.pch.pch FacebookTest/FacebookTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417445040.109352
+e417445043.827378
+r1
+xProcessPCH
+x/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-gxykpqjnvtyoqpdxdplfjbfyciry/FacebookTest-Prefix.pch.pch
+xFacebookTest/FacebookTest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/FacebookTest-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile FacebookTest/FacebookTest-Prefix.pch256"ProcessPCH DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-gxykpqjnvtyoqpdxdplfjbfyciry/FacebookTest-Prefix.pch.pch FacebookTest/FacebookTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler26ac1db0b4e1b841^31d2d3b3b4e1b841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/FacebookTest-Prefix.pch0000000000000000^4761"ProcessPCH DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-gxykpqjnvtyoqpdxdplfjbfyciry/FacebookTest-Prefix.pch.pch FacebookTest/FacebookTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-generated-files.hmap -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-own-target-headers.hmap -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-all-target-headers.hmap -iquote /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/FacebookTest-project-headers.hmap -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/DerivedSources/i386 -I/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/FacebookTest.build/Debug-iphonesimulator/FacebookTest.build/DerivedSources -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator -F/Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/SocialConnectLibrary/SocialTestLibraryTest1 --serialize-diagnostics /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-gxykpqjnvtyoqpdxdplfjbfyciry/FacebookTest-Prefix.pch.dia -MMD -MT dependencies -MF /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-gxykpqjnvtyoqpdxdplfjbfyciry/FacebookTest-Prefix.pch.d -c /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/FacebookTest/FacebookTest-Prefix.pch -o /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Intermediates/PrecompiledHeaders/FacebookTest-Prefix-gxykpqjnvtyoqpdxdplfjbfyciry/FacebookTest-Prefix.pch.pch36"2E6C0832-9F04-4786-9FA9-6C689C5118E2-
+b2AD92A77-6344-44F9-9939-62B296CCF7E3
+
+CProcessPCH /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Index/PrecompiledHeaders/FacebookTest-Prefix-ackioilfsukicgfwjsqoibjtdjwj_ast/FacebookTest-Prefix.pch.pch FacebookTest/FacebookTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Index/PrecompiledHeaders/FacebookTest-Prefix-eefyftdicnonxjhlfzervkwmmftt_ast/FacebookTest-Prefix.pch.pch FacebookTest/FacebookTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Index/PrecompiledHeaders/FacebookTest-Prefix-fevtqgmplwywqpdwgibhshjhplxz_ast/FacebookTest-Prefix.pch.pch FacebookTest/FacebookTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/dbgmacmini2dbg/Documents/MyFolder/DeveloperWork/Git/Iphone/Examples/FacebookTest/DerivedData/FacebookTest/Build/Products/Debug-iphonesimulator/FacebookTest.app
+r0
+
